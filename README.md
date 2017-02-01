@@ -1,5 +1,6 @@
 # simple-php-crud
-to evaluate my as PHP developer I hash been asked to do this task
+I d this example as a task requested from me to evaluate me as PHP developer.
+
 -----
 - Login page by username , password  , remember password
 - Make a web page to add-edit-delete categories - sub-categories(unlimited sub categories as tree ) & products inside any level in cat or sub-cat
@@ -7,6 +8,6 @@ to evaluate my as PHP developer I hash been asked to do this task
 - All of these in one page using PHP without framework
 
 -----
-I will Not expose company name to prevent faking the test result
+I will Not expose company name to prevent faking the test.
 
-But now i use the same method and this is how I do it , if this could help
+Now I use the same task to evaluate others.
